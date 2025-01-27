@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ibrahim<br>A Software Engineer specializing in .NET and .NET Core, with a diverse background in developing applications across various domains including HRMS, healthcare PACS and EMR, fintech, and more. I have hands-on experience with databases like SQL, PostgreSQL, and MongoDB, and I’ve worked with Node.js for backend development. I also have expertise in utilizing multiple AWS services to architect and deploy scalable solutions.<br><br>Feel free to explore my repositories to see some of the projects I’ve been working on!
+Hi, I'm Ibrahim Ahmed Shaikh,<br>A Software Engineer specializing in .NET and .NET Core, with a diverse background in developing applications across various domains including HRMS, healthcare PACS and EMR, fintech, and more. I have hands-on experience with databases like SQL, PostgreSQL, and MongoDB, and I’ve worked with Node.js for backend development. I also have expertise in utilizing multiple AWS services to architect and deploy scalable solutions.<br><br>Feel free to explore my repositories to see some of the projects I’ve been working on!
 
 
 # 💻 Tech Stack:
